@@ -7,10 +7,10 @@ de pago** (la compra se confirma y se genera la orden, como se pidió para la ex
 Usuario de prueba ya cargado: **santiago** / **1234**
 
 **Equipo**
-Juan Manuel Mira Janne
-Aaron Mateo Ruiz (PO)
-Harry Uran Molina
-Santiago Rodríguez Marín
+Juan Manuel Mira Janne,
+Aaron Mateo Ruiz,
+Harry Uran Molina,
+Santiago Rodríguez Marín.
 
 **Tecnologías**
 Java 11
