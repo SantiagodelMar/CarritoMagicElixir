@@ -7,3 +7,19 @@ de pago** (la compra se confirma y se genera la orden, como se pidió para la ex
 Usuario de prueba ya cargado: **santiago** / **1234**.
 También se puede crear una cuenta nueva desde la pantalla de inicio.
 
+**Equipo**
+Juan Manuel Mira Janne
+Aaron Mateo Ruiz (PO)
+Harry Uran Molina
+Santiago Rodríguez Marín
+
+**Tecnologías**
+Java 11
+IntelliJ IDEA
+GitHub
+Git
+
+**Organización**
+El proyecto se desarrolla utilizando Scrum.
+
+git add README.md git commit -m "docs: update README with Scrum structure" E0F
